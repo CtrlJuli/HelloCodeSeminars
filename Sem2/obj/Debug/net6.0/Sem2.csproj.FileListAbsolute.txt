@@ -1,0 +1,16 @@
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\bin\Debug\net6.0\Sem2.exe
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\bin\Debug\net6.0\Sem2.deps.json
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\bin\Debug\net6.0\Sem2.runtimeconfig.json
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\bin\Debug\net6.0\Sem2.dll
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\bin\Debug\net6.0\ref\Sem2.dll
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\bin\Debug\net6.0\Sem2.pdb
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\obj\Debug\net6.0\Sem2.GlobalUsings.g.cs
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\obj\Debug\net6.0\Sem2.csproj.AssemblyReference.cache
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\obj\Debug\net6.0\Sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\obj\Debug\net6.0\Sem2.AssemblyInfoInputs.cache
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\obj\Debug\net6.0\Sem2.AssemblyInfo.cs
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\obj\Debug\net6.0\Sem2.csproj.CoreCompileInputs.cache
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\obj\Debug\net6.0\Sem2.dll
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\obj\Debug\net6.0\ref\Sem2.dll
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\obj\Debug\net6.0\Sem2.pdb
+C:\Users\julli\OneDrive\Desktop\EducationRepeat\Семинары_ЯП\Seminars\Sem2\obj\Debug\net6.0\Sem2.genruntimeconfig.cache
